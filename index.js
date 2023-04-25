@@ -43,6 +43,13 @@ onValue(itemInDB,function(snapshot){
 buttonEl.addEventListener("click",function(){
     
     let inputValue = inputText.value
+    
+    if(inputValue === "")
+    {
+        alert("please enter some input..")
+        return
+    }
+
     push(itemInDB,inputValue)
     
     //Add item to list dynamically
