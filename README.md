@@ -1,4 +1,4 @@
-# MyCart
+# Realtime-Firebase-Cart
 <b>This is my personal cart for shopping list agenda</b> <br>
 
 <a href="https://sargan-shopping.netlify.app/">DEMO LINK IS AVAILABLE HERE CLICK!</a><br>
